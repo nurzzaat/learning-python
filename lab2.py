@@ -29,5 +29,5 @@ bigInteger = 5_678_910_000
 #7 task
 breakTime = 15
 print(breakTime)
-breakTime = 15
+breakTime = 20
 print(breakTime)
